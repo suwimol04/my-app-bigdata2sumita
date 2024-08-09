@@ -62,10 +62,10 @@ export default function Header() {
               <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
             </li>
             <li>
-              <a href="#">การจัดลำดับในกลุ่มประเทศ AEC</a>
+              <a href="aecranking">AEC Ranking</a>
             </li>
             <li>
-              <a href="#">การประเมินยุทธศาสตร์ชาติ</a>
+              <a href="productlist">การประเมินยุทธศาสตร์ชาติ</a>
             </li>
             <li>
               <a href="#">ติดต่อ</a>
